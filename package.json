@@ -13,7 +13,9 @@
   ],
   "author": "Maximilian Schwarzmüller",
   "license": "ISC",
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/lodash": "^4.14.158"
+  },
   "dependencies": {
     "lodash": "^4.17.19",
     "ts-loader": "^6.2.1",
