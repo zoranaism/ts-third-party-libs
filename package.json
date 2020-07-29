@@ -17,7 +17,10 @@
     "@types/lodash": "^4.14.158"
   },
   "dependencies": {
+    "class-transformer": "^0.2.3",
+    "class-validator": "^0.12.2",
     "lodash": "^4.17.19",
+    "reflect-metadata": "^0.1.13",
     "ts-loader": "^6.2.1",
     "typescript": "^3.7.2",
     "webpack": "^4.41.2",
